@@ -15,7 +15,7 @@ set tabstop=4
 "colorscheme murphy
 colorscheme wombat 
 "set lines=56 columns=240
-set guifont=Monospace\ 8
+set guifont=Consolas:h09:cANSI
 set backspace=2
 set tabstop=4
 set shiftwidth=4
