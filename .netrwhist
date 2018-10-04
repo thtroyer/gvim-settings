@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/etc/rc2.d'
-let g:netrw_dirhist_2='/home/tom/dev/drupal_dev/src/sites/dev-internal.mooreheadcomm.com/modules/mhc_rq4_po_customization/vendor/pimple/pimple'
-let g:netrw_dirhist_3='/etc/apache2/sites-available'
-let g:netrw_dirhist_4='/home/tom/dev/repository/git/php/drupal_dev/src/sites/dev-internal.mooreheadcomm.com/modules/mhc_responsys'
